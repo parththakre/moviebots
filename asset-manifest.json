@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/moviebots/static/css/main.556787ec.chunk.css",
+    "main.js": "/moviebots/static/js/main.33c59e8e.chunk.js",
+    "main.js.map": "/moviebots/static/js/main.33c59e8e.chunk.js.map",
+    "runtime-main.js": "/moviebots/static/js/runtime-main.4ed6aabb.js",
+    "runtime-main.js.map": "/moviebots/static/js/runtime-main.4ed6aabb.js.map",
+    "static/css/2.31461e4f.chunk.css": "/moviebots/static/css/2.31461e4f.chunk.css",
+    "static/js/2.0dce1f0b.chunk.js": "/moviebots/static/js/2.0dce1f0b.chunk.js",
+    "static/js/2.0dce1f0b.chunk.js.map": "/moviebots/static/js/2.0dce1f0b.chunk.js.map",
+    "static/js/3.6311c3da.chunk.js": "/moviebots/static/js/3.6311c3da.chunk.js",
+    "static/js/3.6311c3da.chunk.js.map": "/moviebots/static/js/3.6311c3da.chunk.js.map",
+    "index.html": "/moviebots/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/moviebots/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.556787ec.chunk.css.map": "/moviebots/static/css/main.556787ec.chunk.css.map",
+    "static/js/2.0dce1f0b.chunk.js.LICENSE.txt": "/moviebots/static/js/2.0dce1f0b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/moviebots/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ed6aabb.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.0dce1f0b.chunk.js",
+    "static/css/main.556787ec.chunk.css",
+    "static/js/main.33c59e8e.chunk.js"
+  ]
+}
